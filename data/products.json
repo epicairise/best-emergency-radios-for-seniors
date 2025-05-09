@@ -1,42 +1,52 @@
 [
   {
     "position": 1,
-    "name": "Midland ER310 Emergency Crank Weather Radio",
-    "slug": "midland-er310-emergency-crank-weather-radio",
-    "description": "A reliable emergency radio with multiple power options and an SOS flashlight beacon, ideal for seniors seeking dependable communication during emergencies.",
-    "image": "https://epicairise.github.io/midland-er310-emergency-crank-weather-radio/media/midland-er310.jpg",
+    "name": "Midland ER310 Emergency Crank Radio",
+    "slug": "midland-er310",
+    "description": "A reliable emergency radio with multiple power options, perfect for seniors needing dependable alerts and flashlight features.",
+    "image": "https://res.cloudinary.com/dhfbsqfxr/image/upload/midland-er310.jpg",
+    "target_audience_match": "Great for older adults who want a no-fuss, dependable way to hear alerts and shine a light when the power's out.",
+    "price": "From $69.99",
     "data-link": "pending"
   },
   {
     "position": 2,
-    "name": "Kaito KA500 5-Way Powered Emergency Radio",
-    "slug": "kaito-ka500-5-way-powered-emergency-radio",
-    "description": "Versatile emergency radio offering five power options and comprehensive band coverage, suitable for seniors requiring flexibility and ease of use.",
-    "image": "https://epicairise.github.io/kaito-ka500-5-way-powered-emergency-radio/media/kaito-ka500.jpg",
+    "name": "RunningSnail MD-090P Hand Crank Radio",
+    "slug": "runningsnail-md090p",
+    "description": "Affordable, compact radio with flashlight and power bank—great for senior households needing backup communication.",
+    "image": "https://res.cloudinary.com/dhfbsqfxr/image/upload/runningsnail-md090p.jpg",
+    "target_audience_match": "Perfect for seniors looking for a simple, affordable emergency tool that’s easy to keep close by.",
+    "price": "From $39.99",
     "data-link": "pending"
   },
   {
     "position": 3,
-    "name": "Sangean MMR-88 AM/FM Weather Handcrank Emergency Radio",
-    "slug": "sangean-mmr-88-am-fm-weather-handcrank-emergency-radio",
-    "description": "Compact and user-friendly emergency radio with multiple charging methods, designed for seniors who prioritize simplicity and reliability.",
-    "image": "https://epicairise.github.io/sangean-mmr-88-am-fm-weather-handcrank-emergency-radio/media/sangean-mmr88.jpg",
+    "name": "Eton FRX3+ Emergency Weather Radio",
+    "slug": "eton-frx3plus",
+    "description": "A Red Cross-endorsed radio with clear sound and easy charging—designed with intuitive controls for older hands.",
+    "image": "https://res.cloudinary.com/dhfbsqfxr/image/upload/eton-frx3plus.jpg",
+    "target_audience_match": "Recommended for older adults who want something easy to find in the dark and trusted in emergencies.",
+    "price": "From $59.95",
     "data-link": "pending"
   },
   {
     "position": 4,
-    "name": "RunningSnail Emergency Hand Crank Radio",
-    "slug": "runningsnail-emergency-hand-crank-radio",
-    "description": "Affordable emergency radio with essential features, perfect for seniors needing a basic yet effective communication tool during emergencies.",
-    "image": "https://epicairise.github.io/runningsnail-emergency-hand-crank-radio/media/runningsnail-radio.jpg",
+    "name": "FosPower Emergency Solar Hand Crank Radio",
+    "slug": "fospower-radio",
+    "description": "A highly-rated, all-in-one emergency radio with flashlight and alarm, built for intuitive use.",
+    "image": "https://res.cloudinary.com/dhfbsqfxr/image/upload/fospower-radio.jpg",
+    "target_audience_match": "Ideal for seniors who need loud alerts and easy flashlight controls without dealing with tech headaches.",
+    "price": "From $35.99",
     "data-link": "pending"
   },
   {
     "position": 5,
-    "name": "Eton American Red Cross FRX3+ Emergency Radio",
-    "slug": "eton-american-red-cross-frx3-emergency-radio",
-    "description": "Official Red Cross emergency radio with multiple power options and smartphone charging capability, tailored for seniors seeking trusted and comprehensive emergency preparedness.",
-    "image": "https://epicairise.github.io/eton-american-red-cross-frx3-emergency-radio/media/eton-frx3.jpg",
+    "name": "Kaito KA500 5-Way Powered Emergency Radio",
+    "slug": "kaito-ka500",
+    "description": "Versatile power options and robust signal reception—perfect for seniors living in storm-prone areas.",
+    "image": "https://res.cloudinary.com/dhfbsqfxr/image/upload/kaito-ka500.jpg",
+    "target_audience_match": "Great for storm-savvy seniors or caregivers looking for long-term, multi-source backup.",
+    "price": "From $49.95",
     "data-link": "pending"
   }
 ]
